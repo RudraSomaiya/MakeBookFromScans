@@ -1,0 +1,5 @@
+.venv/
+book/
+.git/
+.agents/
+data/

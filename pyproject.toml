@@ -1,0 +1,13 @@
+[project]
+name = "makebookfromscans"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.5.1",
+    "paddleocr>=3.4.1",
+    "pillow>=12.3.0",
+    "pymupdf>=1.28.0",
+    "tqdm>=4.69.0",
+]

@@ -3,3 +3,5 @@ book/
 .git/
 .agents/
 data/
+
+__pycache__/

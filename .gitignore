@@ -1,7 +1,10 @@
 .venv/
-book/
-.git/
+__pycache__/
 .agents/
 data/
+
+# Input scans and OCR output stay local
+Book/
+book/
 Output/
-__pycache__/
+Output.zip
